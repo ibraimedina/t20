@@ -1,0 +1,118 @@
+{
+    "corpo-a-corpo-leves": [
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        }
+    ],
+    "corpo-a-corpo-uma-mão": [
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        }
+    ],
+    "corpo-a-corpo-duas-mãos": [
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        }
+    ],
+    "ataque-à-distância": [
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "dano": "",
+            "crítico": "",
+            "alcance": "",
+            "peso": 0,
+            "tipo": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Calculadora de itens - Tormenta 20</title>
+
+    <script language="javascript" src="libs/jquery/js/jquery-1.9.1.min.js"></script>
+    <script language="javascript" src="index.js"></script>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Calculadora de itens</h1>
+
+    <h3>
+        <span>Inventário atual</span>
+        <strong class="inv-weigth">
+            <span>(</span>
+            <span id="inventoryWeight">0</span>
+            <span>kg)</span>
+        </strong>
+    </h3>
+    <template id="invItemTemplate">
+        <div class="inv-item">
+            <span class="inv-item-name">${invItemName}</span>
+            <span class="inv-item-weight">(${invItemUnitWeight} kg)</span>
+            <span class="inv-item-quantity">x${invItemQuantity}</span>
+        </div>
+    </template>
+    <div id="invItens" class="inv-itens">
+    </div>
+
+    <hr></hr>
+
+    <div id="itens" class="itens">
+        <template id="titleTemplate">
+            <h3>${title}</h3>
+        </template>
+        <template id="categoryTemplate">
+            <h5>${category}</h5>
+        </template>
+        <template id="itemTemplate">
+            <div class="item"
+                data-name="${itemName}"
+                data-weight="${itemWeight}">
+                <label for="${itemNameSlug}">${itemName}</label>
+                <input type="number" min="0" value="${itemValue}"
+                    name="${itemNameSlug}" id="${itemNameSlug}">
+            </div>
+        </template>
+    </div>
+
+</body>
+</html>

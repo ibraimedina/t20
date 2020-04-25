@@ -1,0 +1,22 @@
+.page-title {
+    max-height: 10vh;
+}
+
+.inventory {
+    max-height: 15vh;
+}
+
+.itens {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    max-height: 75vh;
+}
+.itens > * {
+    max-width: 30em;
+}
+
+.item input {
+    width: 3em;
+}

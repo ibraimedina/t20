@@ -1,0 +1,62 @@
+{
+    "gerais": [
+        { "item": "Algemas", "preço": 15, "peso": 1 },
+        { "item": "Algibeira", "preço": 1, "peso": 0.25 },
+        { "item": "Barraca", "preço": 10, "peso": 10 },
+        { "item": "Corda (10m)", "preço": 1, "peso": 5 },
+        { "item": "Espelho de metal", "preço": 10, "peso": 0.25 },
+        { "item": "Instrumento musical", "preço": 50, "peso": 1.5 },
+        { "item": "Kit de artesão", "preço": 30, "peso": 4 },
+        { "item": "Kit de disfarces", "preço": 50, "peso": 4 },
+        { "item": "Kit de ladrão", "preço": 30, "peso": 0.5 },
+        { "item": "Kit de medicamentos", "preço": 50, "peso": 0.5 },
+        { "item": "Lampião", "preço": 7, "peso": 1 },
+        { "item": "Mochila", "preço": 2, "peso": 1 },
+        { "item": "Odre", "preço": 1, "peso": 2 },
+        { "item": "Pé de cabra", "preço": 2, "peso": 2.5 },
+        { "item": "Pederneira", "preço": 1, "peso": 0 },
+        { "item": "Pena", "preço": 0.1, "peso": 0 },
+        { "item": "Pergaminho (folha)", "preço": 0.1, "peso": 0 },
+        { "item": "Ração de viagem (por dia)", "preço": 0.5, "peso": 0.5 },
+        { "item": "Saco de dormir", "preço": 1, "peso": 2.5 },
+        { "item": "Saco de lona", "preço": 0.1, "peso": 0.25 },
+        { "item": "Tinta (frasco)", "preço": 8, "peso": 0 },
+        { "item": "Tocha", "preço": 0.1, "peso": 0.5 },
+        { "item": "Vara de madeira (3m)", "preço": 0.2, "peso": 4 }
+    ],
+    "alquimia": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "alimentação": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "animais": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "veículos": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "vestuário": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "hospedagem": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ],
+    "serviços": [
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 },
+        { "item": "", "preço": 0, "peso": 0 }
+    ]
+}

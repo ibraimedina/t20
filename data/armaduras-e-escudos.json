@@ -1,0 +1,48 @@
+{
+    "armaduras-leves": [
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        }
+    ],
+    "armaduras-pesadas": [
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        },
+        {
+            "item": "",
+            "preço": 0,
+            "bônus-na-defesa": 0,
+            "penalidade-de-armadura": 0,
+            "peso": 0
+        }
+    ]
+}
