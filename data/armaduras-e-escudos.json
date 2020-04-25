@@ -1,48 +1,92 @@
 {
     "armaduras-leves": [
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
+            "item": "Armadura acolchoada",
+            "preço": 5,
+            "bônus-na-defesa": 1,
             "penalidade-de-armadura": 0,
-            "peso": 0
+            "peso": 5
         },
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
+            "item": "Armadura de couro",
+            "preço": 10,
+            "bônus-na-defesa": 2,
             "penalidade-de-armadura": 0,
-            "peso": 0
+            "peso": 7
         },
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
-            "penalidade-de-armadura": 0,
-            "peso": 0
+            "item": "Couro batido",
+            "preço": 25,
+            "bônus-na-defesa": 3,
+            "penalidade-de-armadura": -1,
+            "peso": 10
+        },
+        {
+            "item": "Gibão de peles",
+            "preço": 15,
+            "bônus-na-defesa": 4,
+            "penalidade-de-armadura": -3,
+            "peso": 12
+        },
+        {
+            "item": "Couraça",
+            "preço": 200,
+            "bônus-na-defesa": 5,
+            "penalidade-de-armadura": -4,
+            "peso": 15
         }
     ],
     "armaduras-pesadas": [
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
-            "penalidade-de-armadura": 0,
-            "peso": 0
+            "item": "Brunea",
+            "preço": 50,
+            "bônus-na-defesa": 5,
+            "penalidade-de-armadura": -2,
+            "peso": 15
         },
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
-            "penalidade-de-armadura": 0,
-            "peso": 0
+            "item": "Cota de malha",
+            "preço": 150,
+            "bônus-na-defesa": 6,
+            "penalidade-de-armadura": -2,
+            "peso": 20
         },
         {
-            "item": "",
-            "preço": 0,
-            "bônus-na-defesa": 0,
-            "penalidade-de-armadura": 0,
-            "peso": 0
+            "item": "Loriga segmentada",
+            "preço": 250,
+            "bônus-na-defesa": 7,
+            "penalidade-de-armadura": -3,
+            "peso": 17
+        },
+        {
+            "item": "Meia armadura",
+            "preço": 600,
+            "bônus-na-defesa": 8,
+            "penalidade-de-armadura": -4,
+            "peso": 22
+        },
+        {
+            "item": "Armadura completa",
+            "preço": 1500,
+            "bônus-na-defesa": 10,
+            "penalidade-de-armadura": -5,
+            "peso": 25
+        }
+    ],
+    "escudos": [
+        {
+            "item": "Escudo leve",
+            "preço": 5,
+            "bônus-na-defesa": 1,
+            "penalidade-de-armadura": -1,
+            "peso": 3
+        },
+        {
+            "item": "Escudo pesado",
+            "preço": 15,
+            "bônus-na-defesa": 2,
+            "penalidade-de-armadura": -2,
+            "peso": 7
         }
     ]
 }

@@ -25,38 +25,55 @@
         { "item": "Vara de madeira (3m)", "preço": 0.2, "peso": 4 }
     ],
     "alquimia": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Ácido", "preço": 10, "peso": 0.5 },
+        { "item": "Bálsamo restaurador", "preço": 25, "peso": 0.5 },
+        { "item": "Essência de mana", "preço": 50, "peso": 0.1 },
+        { "item": "Fogo alquímico", "preço": 10, "peso": 0.5 }
     ],
     "alimentação": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Batata valkariana", "preço": 2, "peso": 0.5 },
+        { "item": "Bebida comum", "preço": 0.1, "peso": 0.5 },
+        { "item": "Gorad quente", "preço": 19, "peso": 0.5 },
+        { "item": "Macarrão de Yuvalin", "preço": 5, "peso": 0.5 },
+        { "item": "Prato do aventureiro", "preço": 1, "peso": 0.5 },
+        { "item": "Refeição comum", "preço": 0.3, "peso": 0.5 },
+        { "item": "Sopa de peixe", "preço": 1, "peso": 0.5 }
     ],
     "animais": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Cão de guarda", "preço": 50, "peso": 0 },
+        { "item": "Cavalo", "preço": 75, "peso": 0 },
+        { "item": "Cavalo de guerra", "preço": 400, "peso": 0 },
+        { "item": "Estábulo (por dia)", "preço": 0.1, "peso": 0 },
+        { "item": "Pônei", "preço": 5, "peso": 0 },
+        { "item": "Pônei de guerra", "preço": 30, "peso": 0 },
+        { "item": "Sela", "preço": 20, "peso": 0 },
+        { "item": "Trobo", "preço": 10, "peso": 0 }
     ],
     "veículos": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Balão goblin", "preço": 200, "peso": 0 },
+        { "item": "Carroça", "preço": 30, "peso": 0 },
+        { "item": "Carruagem", "preço": 100, "peso": 0 },
+        { "item": "Canoa", "preço": 50, "peso": 0 },
+        { "item": "Condução-terrestre (km)", "preço": 3, "peso": 0 },
+        { "item": "Condução-marítima (km)", "preço": 0.1, "peso": 0 },
+        { "item": "Condução-aérea (km)", "preço": 1, "peso": 0 },
+        { "item": "Veleiro", "preço": 10000, "peso": 0 }
     ],
     "vestuário": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Traje camuflado", "preço": 20, "peso": 2 },
+        { "item": "Traje da corte", "preço": 50, "peso": 2 },
+        { "item": "Traje de plebeu", "preço": 0.5, "peso": 1 },
+        { "item": "Traje de viajante", "preço": 5, "peso": 2 }
     ],
     "hospedagem": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Estadia-comum (por noite)", "preço": 0.5, "peso": 0 },
+        { "item": "Estadia-confortável (por noite)", "preço": 2, "peso": 0 },
+        { "item": "Estadia-luxuosa (por noite)", "preço": 5, "peso": 0 }
     ],
     "serviços": [
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 },
-        { "item": "", "preço": 0, "peso": 0 }
+        { "item": "Mensageiro (por km)", "preço": 2, "peso": 0 },
+        { "item": "Magia de 1º círculo", "preço": 0, "peso": 0 },
+        { "item": "Magia de 2º círculo", "preço": 0, "peso": 0 },
+        { "item": "Magia de 3º círculo", "preço": 0, "peso": 0 }
     ]
 }

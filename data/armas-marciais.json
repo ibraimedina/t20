@@ -1,118 +1,199 @@
 {
     "corpo-a-corpo-leves": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Escudo leve",
+            "preço": 5,
+            "dano": "1d4",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 3,
+            "tipo": "esmagamento"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
-        },
-        {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Machadinha",
+            "preço": 6,
+            "dano": "1d6",
+            "crítico": "x3",
+            "alcance": "curto",
+            "peso": 2,
+            "tipo": "corte"
         }
     ],
     "corpo-a-corpo-uma-mão": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Cimitarra",
+            "preço": 15,
+            "dano": "1d6",
+            "crítico": "18",
+            "alcance": "-",
+            "peso": 2,
+            "tipo": "corte"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Escudo pesado",
+            "preço": 15,
+            "dano": "1d6",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 7,
+            "tipo": "esmagamento"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Espada longa",
+            "preço": 15,
+            "dano": "1d8",
+            "crítico": "19",
+            "alcance": "-",
+            "peso": 2,
+            "tipo": "corte"
+        },
+        {
+            "item": "Florete",
+            "preço": 20,
+            "dano": "1d6",
+            "crítico": "18",
+            "alcance": "-",
+            "peso": 1,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Machado de batalha",
+            "preço": 10,
+            "dano": "1d8",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 3,
+            "tipo": "corte"
+        },
+        {
+            "item": "Mangual",
+            "preço": 8,
+            "dano": "1d8",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 2.5,
+            "tipo": "esmagamento"
+        },
+        {
+            "item": "Martelo de guerra",
+            "preço": 12,
+            "dano": "1d8",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 2.5,
+            "tipo": "esmagamento"
+        },
+        {
+            "item": "Picareta",
+            "preço": 8,
+            "dano": "1d6",
+            "crítico": "x4",
+            "alcance": "-",
+            "peso": 3,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Tridente",
+            "preço": 15,
+            "dano": "1d8",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 2,
+            "tipo": "perfuração"
         }
     ],
     "corpo-a-corpo-duas-mãos": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Alabarda",
+            "preço": 10,
+            "dano": "1d10",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 6,
+            "tipo": "corte"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Alfange",
+            "preço": 75,
+            "dano": "2d4",
+            "crítico": "18",
+            "alcance": "-",
+            "peso": 4,
+            "tipo": "corte"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Gadanho",
+            "preço": 18,
+            "dano": "2d4",
+            "crítico": "x4",
+            "alcance": "-",
+            "peso": 5,
+            "tipo": "corte"
+        },
+        {
+            "item": "Lança montada",
+            "preço": 10,
+            "dano": "1d8",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 5,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Machado de guerra",
+            "preço": 20,
+            "dano": "1d12",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 6,
+            "tipo": "corte"
+        },
+        {
+            "item": "Montante",
+            "preço": 50,
+            "dano": "2d6",
+            "crítico": "19",
+            "alcance": "-",
+            "peso": 4,
+            "tipo": "corte"
         }
     ],
     "ataque-à-distância": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Arco longo",
+            "preço": 100,
+            "dano": "1d8",
+            "crítico": "x3",
+            "alcance": "médio",
+            "peso": 1.5,
+            "tipo": "perfuração"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Flecha",
+            "preço": 0.05,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.075,
+            "tipo": "-"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Besta pesada",
+            "preço": 50,
+            "dano": "1d12",
+            "crítico": "19",
+            "alcance": "médio",
+            "peso": 4,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Virote",
+            "preço": 0.1,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.05,
+            "tipo": "-"
         }
     ]
 }

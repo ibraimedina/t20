@@ -1,118 +1,199 @@
 {
     "corpo-a-corpo-leves": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Adaga",
+            "preço": 2,
+            "dano": "1d4",
+            "crítico": "19",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "perfuração"
         },
         {
-            "item": "",
+            "item": "Ataque desarmado",
             "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
+            "dano": "1d3",
+            "crítico": "x2",
+            "alcance": "-",
             "peso": 0,
-            "tipo": ""
+            "tipo": "esmagamento"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Espada curta",
+            "preço": 10,
+            "dano": "1d6",
+            "crítico": "19",
+            "alcance": "-",
+            "peso": 1,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Manopla",
+            "preço": 5,
+            "dano": "1d4",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 1,
+            "tipo": "esmagamento"
         }
     ],
     "corpo-a-corpo-uma-mão": [
         {
-            "item": "",
+            "item": "Clava",
             "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "dano": "1d6",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 1.5,
+            "tipo": "esmagamento"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Lança",
+            "preço": 2,
+            "dano": "1d6",
+            "crítico": "x2",
+            "alcance": "curto",
+            "peso": 1.5,
+            "tipo": "perfuração"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Maça",
+            "preço": 12,
+            "dano": "1d8",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 6,
+            "tipo": "esmagamento"
         }
     ],
     "corpo-a-corpo-duas-mãos": [
         {
-            "item": "",
+            "item": "Bordão",
             "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "dano": "1d6",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 2,
+            "tipo": "esmagamento"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Pique",
+            "preço": 2,
+            "dano": "1d8",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 5,
+            "tipo": "perfuração"
         },
         {
-            "item": "",
+            "item": "Tacape",
             "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "dano": "1d10",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 4,
+            "tipo": "esmagamento"
         }
     ],
     "ataque-à-distância": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Ácido",
+            "preço": 10,
+            "dano": "2d4",
+            "crítico": "-",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "ácido"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Água benta",
+            "preço": 25,
+            "dano": "2d6",
+            "crítico": "-",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "luz"
         },
         {
-            "item": "",
+            "item": "Arco curto",
+            "preço": 30,
+            "dano": "1d6",
+            "crítico": "x3",
+            "alcance": "médio",
+            "peso": 1,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Flecha",
+            "preço": 0.05,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.075,
+            "tipo": "-"
+        },
+        {
+            "item": "Azagaia",
+            "preço": 1,
+            "dano": "1d6",
+            "crítico": "x2",
+            "alcance": "médio",
+            "peso": 1,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Besta leve",
+            "preço": 35,
+            "dano": "1d8",
+            "crítico": "19",
+            "alcance": "médio",
+            "peso": 3,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Virote",
+            "preço": 0.1,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.05,
+            "tipo": "-"
+        },
+        {
+            "item": "Fogo alquĩmico",
+            "preço": 10,
+            "dano": "1d6",
+            "crítico": "-",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "fogo"
+        },
+        {
+            "item": "Funda",
             "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "dano": "1d4",
+            "crítico": "x2",
+            "alcance": "médio",
+            "peso": 0.25,
+            "tipo": "esmagamento"
+        },
+        {
+            "item": "Bala (simples)",
+            "preço": 0.01,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.2,
+            "tipo": "-"
+        },
+        {
+            "item": "Granada",
+            "preço": 50,
+            "dano": "4d6",
+            "crítico": "-",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "trovão"
         }
     ]
 }

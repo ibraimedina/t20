@@ -1,89 +1,80 @@
 {
     "corpo-a-corpo-uma-mão": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Chicote",
+            "preço": 2,
+            "dano": "1d3",
+            "crítico": "x2",
+            "alcance": "-",
+            "peso": 1,
+            "tipo": "corte"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Espada bastarda",
+            "preço": 35,
+            "dano": "1d10",
+            "crítico": "19",
+            "alcance": "-",
+            "peso": 3,
+            "tipo": "corte"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Machado anão",
+            "preço": 30,
+            "dano": "1d10",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 4,
+            "tipo": "corte"
         }
     ],
     "corpo-a-corpo-duas-mãos": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
-        },
-        {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
-        },
-        {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Machado táurico",
+            "preço": 50,
+            "dano": "2d8",
+            "crítico": "x3",
+            "alcance": "-",
+            "peso": 12,
+            "tipo": "corte"
         }
     ],
     "ataque-à-distância": [
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Bala (exótica)",
+            "preço": 1,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "-",
+            "peso": 0.2,
+            "tipo": "-"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Pistola",
+            "preço": 250,
+            "dano": "2d6",
+            "crítico": "19/x3",
+            "alcance": "curto",
+            "peso": 0.5,
+            "tipo": "perfuração"
         },
         {
-            "item": "",
-            "preço": 0,
-            "dano": "",
-            "crítico": "",
-            "alcance": "",
-            "peso": 0,
-            "tipo": ""
+            "item": "Mosquete",
+            "preço": 500,
+            "dano": "2d8",
+            "crítico": "19/x3",
+            "alcance": "médio",
+            "peso": 0.5,
+            "tipo": "perfuração"
+        },
+        {
+            "item": "Rede",
+            "preço": 20,
+            "dano": "-",
+            "crítico": "-",
+            "alcance": "curto",
+            "peso": 13,
+            "tipo": "-"
         }
     ]
 }

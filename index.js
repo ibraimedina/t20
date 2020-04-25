@@ -7,9 +7,11 @@ let inventory = {
 }
 
 let itemJsonPaths = [
-    { name: "Itens e Serviços",     path: "data/itens-e-serviços.json" }
-    // ,
-    // { name: "Armas simples",        path: "data/armas-simples.json" }
+    { name: "Itens e Serviços",    path: "data/itens-e-serviços.json" },
+    { name: "Armas simples",       path: "data/armas-simples.json" },
+    { name: "Armas marciais",      path: "data/armas-marciais.json" },
+    { name: "Armas exóticas",      path: "data/armas-exóticas.json" },
+    { name: "Armaduras e escudos", path: "data/armaduras-e-escudos.json" }
 ]
 
 let slugify = function(text) {
